@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="btnSend">SEND</string>
+    <string name="btnBack">BACK</string>
+</resources>
